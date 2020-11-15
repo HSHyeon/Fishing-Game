@@ -1,7 +1,9 @@
 # Fishing-Game
+🐬Android Project Using Acceleration Sensors
+
 [fishing_game.pdf](https://github.com/HSHyeon/Fishing-Game/files/5542196/fishing_game.pdf)
 
-🐬Android Project Using Acceleration Sensors
+
 
 ### Language
 `Java`
