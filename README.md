@@ -1,5 +1,5 @@
 # Fishing-Game
-
+[fishing_game.pdf](https://github.com/HSHyeon/Fishing-Game/files/5542196/fishing_game.pdf)
 
 🐬Android Project Using Acceleration Sensors
 
@@ -10,8 +10,8 @@
 * `Firebase`
 
 
-[fishing_game.pdf](https://github.com/HSHyeon/Fishing-Game/files/5542196/fishing_game.pdf)
 
+### Main Function
 
 * **가속도 센서를 이용해 낚시** 
 
