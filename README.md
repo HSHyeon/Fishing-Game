@@ -1,7 +1,7 @@
 # Fishing-Game
 🐬Android Project Using Acceleration Sensors
 
-https://youtu.be/D_1SPRGtIy4
+<p>https://youtu.be/D_1SPRGtIy4 </p>
 [fishing_game.pdf](https://github.com/HSHyeon/Fishing-Game/files/5542196/fishing_game.pdf)
 
 
